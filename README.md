@@ -1,4 +1,4 @@
-Hi My name is Adrian Emeterio
+# Hi My name is Adrian Emeterio
 # Computer Engineering Student | Hardware Engineer | FPGA, RTL, Embedded Systems
 
 I'm a Computer Engineering student at the University of Central Florida pursuing the VLSI track, with experience in FPGA systems, RTL design, design verification, embedded systems, and computer architecture.
